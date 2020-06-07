@@ -1,0 +1,15 @@
+newmtl Object008SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+map_Kd lung1aTexEx.psd
+Ni 1.00
+Ks 1.20 1.20 1.20
+Ns 1022.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
